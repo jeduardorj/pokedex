@@ -1,4 +1,4 @@
-const bataoAlteraTema = document.getElementById("btn-alterar-tema")
+const bataoAlteraTema = document.getElementById("botao-alterar-tema")
 const body = document.querySelector('body')
 const imagemBtnTema = document.querySelector(".imagem-botao")
 
