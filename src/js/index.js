@@ -8,9 +8,9 @@ bataoAlteraTema.addEventListener("click", () =>{
     body.classList.toggle("modo-escuro")
 
     if(modoEscuroAtivo){   
-        imagemBtnTema.setAttribute("src", "/src/img/sun.png") 
+        imagemBtnTema.setAttribute("src", "./src/img/sun.png") 
     }else{ 
-        imagemBtnTema.setAttribute("src", "/src/img/moon.png") 
+        imagemBtnTema.setAttribute("src", "./src/img/moon.png") 
     }   
     
 })
